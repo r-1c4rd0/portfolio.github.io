@@ -1,5 +1,4 @@
 *.png
 .DS_Store
 assets/assets/images/*
-!assets/*
 .env/
