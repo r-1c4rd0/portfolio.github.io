@@ -1,3 +1,4 @@
 *.png
 .DS_Store
-assets/assets/images
+assets/assets/images/*
+!assets/*
